@@ -42,6 +42,8 @@ creator:
     - http://en.wikipedia.org/wiki/Charles_Perrault
 description: Includes "Beauty and the beast" by Mme. Le Prince de Beaumont and "The
   benevolent frog" and "Princess Rosette" by Mme la Comtesse d'Aulnoy.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33511#Tales-of-Passed-Times
 gutenberg_issued: '2010-08-23'
 gutenberg_type: Text
 identifiers:
