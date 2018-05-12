@@ -1,0 +1,63 @@
+_repo: Tales-of-Passed-Times_33511
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Leprince de Beaumont, Madame (Jeanne-Marie)
+    alias: Beaumont, Madame Leprince de (Jeanne-Marie Leprince)
+    birthdate: 1711
+    deathdate: 1780
+    gutenberg_agent_id: '31518'
+    url: http://www.gutenberg.org/2009/agents/31518
+    wikipedia: http://en.wikipedia.org/wiki/Jeanne-Marie_Leprince_de_Beaumont
+  - agent_name: Aulnoy, Madame d' (Marie-Catherine)
+    aliases:
+    - Berneville, Marie-Catherine Jumelle de, comtesse d'Aulnoy
+    - Aulnoy, Marie-Catherine Le Jumel de Barneville, baronne d'
+    - d'Aulnoy, Marie-Catherine
+    birthdate: 1650
+    deathdate: 1705
+    gutenberg_agent_id: '7974'
+    url: http://www.gutenberg.org/2009/agents/7974
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Marie-Catherine_d%27Aulnoy
+    - http://en.wikipedia.org/wiki/Madame_d%27Aulnoy
+  illustrator:
+    agent_name: Robinson, Charles
+    birthdate: 1870
+    deathdate: 1937
+    gutenberg_agent_id: '31464'
+    url: http://www.gutenberg.org/2009/agents/31464
+covers:
+- cover_type: archival
+  image_path: 33511-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Perrault, Charles
+    birthdate: 1628
+    deathdate: 1703
+    gutenberg_agent_id: '7137'
+    url: http://www.gutenberg.org/2009/agents/7137
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Charles_Perrault
+    - http://en.wikipedia.org/wiki/Charles_Perrault
+description: Includes "Beauty and the beast" by Mme. Le Prince de Beaumont and "The
+  benevolent frog" and "Princess Rosette" by Mme la Comtesse d'Aulnoy.
+gutenberg_issued: '2010-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33511'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcsh 'Fairy tales -- France'
+- !lcsh 'Children''s stories, French -- Translations into English'
+- !lcc 'PZ'
+tableOfContents: The sleeping beauty in the wood -- Little Red Riding-Hood -- Blue
+  Beard -- Master cat, or, Puss in boots -- The fairies -- Cinderella, or, The little
+  glass slipper -- Riquet with the tuft -- Little Thumbling -- Beauty and the beast
+  -- The benevolent frog -- Princess Rosette.
+title: Tales of Passed Times
+url: http://www.gutenberg.org/ebooks/33511
